@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    @vite('resources/css/app.css')
     <title>PROJECT RAMADHAN</title>
 </head>
 <body>
@@ -11,7 +12,7 @@
     <a href="/about">About</a>
     <a href="/blog">Blog</a>
     <a href="/contact">Contact</a>
-    <H1>PROJECT RAMADHAN</H1>
+    <h1 class="text-3xl font-bold underline">PROJECT RAMADHAN</h1>
    
 
 </body>
