@@ -7,6 +7,10 @@
     <title>blog</title>
 </head>
 <body>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/blog">Blog</a>
+    <a href="/contact">Contact</a>
     <H1>halaman blog    </H1>
     
 </body>

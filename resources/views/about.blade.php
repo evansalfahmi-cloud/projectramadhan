@@ -7,6 +7,11 @@
     <title>Halaman About</title>
 </head>
 <body>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+    <a href="/blog">Blog</a>
+    <a href="/contact">Contact</a>
     <h1>halaman about</h1>
+    <h3>owner : {{ $nama }}</h3>
 </body>
 </html>
