@@ -15,5 +15,5 @@ Route::get('/blog', function () {
 });
 
 Route::get('/contact', function () {
-    return view('contact',['title' => 'Contact']);
+    return view('contact',['name' => 'Evans Al Fahmi', 'title' => 'Contact']);
 });
